@@ -8,3 +8,5 @@ The story includes:
 - My motivation to return to service through QA & Automation
 
 Built with [HTML5 UP – Story template](https://html5up.net/story) and deployed using GitHub Pages.
+
+View my military story site - designed, built and deployed by me:  https://x-raycers.github.io/My-Military-Story/
